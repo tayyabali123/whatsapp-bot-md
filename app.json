@@ -131,9 +131,6 @@
 
   "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" }],
   "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "basic"
     }
   }
 }
