@@ -130,7 +130,3 @@
   ],
 
   "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" }],
-  "formation": {
-    }
-  }
-}
